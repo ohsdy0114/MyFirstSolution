@@ -1,0 +1,4 @@
+﻿  MyThirdProg.c
+C:\C_workspace\MyFirstSolution\MyThirdProj\MyThirdProg.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\C_workspace\MyFirstSolution\MyThirdProj\MyThirdProg.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  MyThirdProj.vcxproj -> C:\C_workspace\MyFirstSolution\Debug\MyThirdProj.exe
